@@ -16,6 +16,6 @@ public class MathUntilLive {
         
         System.out.println("expected:6! = 720; actual: " + MathUntil.getFactorial(6));
         
-        System.out.println("expected:0! = 1; actual: " + MathUntil.getFactorial(0));
+        System.out.println("expected:1! = 1; actual: " + MathUntil.getFactorial(1));
     }
 }
